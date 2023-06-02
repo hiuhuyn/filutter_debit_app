@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927290312279",
+    "project_id": "ghi-no-gas",
+    "storage_bucket": "ghi-no-gas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927290312279:android:e67e0dc7cdfe4187268512",
+        "android_client_info": {
+          "package_name": "com.example.ghino_gas_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927290312279-335gkd411anjsmjfaabmqtst71dicgc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw-VENd6JwW7OulFsapnT5ycWBzwvxMUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927290312279-335gkd411anjsmjfaabmqtst71dicgc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

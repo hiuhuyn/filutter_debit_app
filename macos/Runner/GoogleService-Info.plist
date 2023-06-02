@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927290312279-b3e71tu0cp02auvfkvmb1dncln126nml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927290312279-b3e71tu0cp02auvfkvmb1dncln126nml</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgTU36t9QpVX0X6imAIV4dT2yVgD12ggY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927290312279</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ghinoGasFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>ghi-no-gas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ghi-no-gas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927290312279:ios:426f2a5a9333c8dd268512</string>
+</dict>
+</plist>
